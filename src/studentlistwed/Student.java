@@ -3,7 +3,7 @@ package studentlistwed;
 
 /**
  * A class to model student Objects. A student has a name.
- * @author dancye, test 2023
+ * @author dancye, adding a comment during online class
  */
 public class Student 
 {
